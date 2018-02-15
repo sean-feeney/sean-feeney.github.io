@@ -1,0 +1,19 @@
+a { border: solid;
+ padding: 12px;
+ 	background-color: red;}
+ a:hover{color: yellow;}
+ 
+ body {	background: green; 
+ 		color: black;
+ 		font-size: 15pt;
+ 		font-family: 'Oswald';}
+ 		
+ 		
+ h1 { 	background: dodgerblue;
+ 		color: blue;
+ 		font-size: 17pt;
+ 		font-family: 'Oswald';}
+ 		
+li { border: 2px solid red; }
+
+TABLE { border: 1px solid black;}
