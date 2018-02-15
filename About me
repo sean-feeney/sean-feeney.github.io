@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<style>
+h1{font-family:"arial";font-size:"20px";}
+h3{font-family: "arial";}
+
+
+</style>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+<link href="styles.css" rel="stylesheet">
+<h1><center>
+About Me
+</center>
+</h1>
+
+
+</head>
+
+<body>
+
+<p><h3>Once again, thank you for visiting my webpage. My name is Sean O'Rourke Feeney, I'm 20 years old and I'm a Finance Major in the Maine Business School at the University of Maine in Orono. I'm from Marshfield, Massachusetts, which is a small beach town that is smack dab in the middle of Boston and Cape Cod. I have two brothers, Marshall and Seamus. Marshall is 19 and he is a freshman Marketing Major at the University of Maine. My brother Seamus is 23 years old, and he graduated from the College of Charleston, in Charleston, South Carolina with a degree in Communications. My mom, June Feeney, is a third grade teach at the Lincoln-Hancock Elementary School in Quincy, MA. My dad, Stephen Feeney, is an attorney. Currently he is a public defendant ath the Plymouth District Courthouse.</div></h3></p>
+
+</body>
+</html>
