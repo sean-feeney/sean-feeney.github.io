@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+head{font-family: "arial"; font-size:20px;}
+body {font-family: "Arial", sans-serif;
+font-size: 10px}
+h1{font-family: "Arial",sans-serif;
+font-size:10px;}
+h3{font-family: "Georgia",sans-serif;
+font-size:10px}
+h4{font-family: "Arial",sans-serif;
+font-size:10px;}
+body, html {height: 100%}
+.border { border-width: 5px; border-color: red; border-style: solid; } 
+
+.bgimg {
+    background-image: url('https://www.walldevil.com/wallpapers/w01/415329-gradient-background-turquoise.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+mark {
+    background-color: white;
+    color: black;
+</style>
+
+<head>
+<div class="w3-medium w3-text-red"><b>
+<a href="BUA 101 Resume.html">Resume</a>
+<a href="Video.html">Peter Schiff Video<a/>
+<a href="About me.html">About me</a></b>
+</div></head>
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-green">
+  <div class="w3-display-topleft w3-padding-large w3-large">
+    <p id="demo">
+    
+</p>
+
+
+  </div>
+  <div class="w3-display-middle">
+    <h1
+    class="w3-xxxlarge w3-center w3-text-GreenYellow"><b>Sean Feeney</b></h1>
+    <h2 class="w3-xlarge w3-center w3-text-white"><i>Finance Major at The Maine Business School, University of Maine, Orono<i/></h2>
+    
+    
+    <h3 class="w3-medium w3-center w3-text-white">Hello! Thank you for visiting my website. Have a look at some of my hobbies and interests, my work experience, and get to know me by going to the links in the top left><h3>
+
+
+
+<h3 id="demo"></h3>
+
+
+
+</script>
+    </p1>
+  </div>
+  <div class="w3-display-topleft w3-padding-large w3-large w3-text-red">
+<p3 class="w3-display-topleft"id="demo"></p3>
+
+
+  </div>
+</div>
+ </div>
+
+</body>
+</html>
